@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/qml/main.qml</file>
+        <file>assets/qml/Adapter.qml</file>
+        <file>assets/qml/Cooler.qml</file>
+        <file>assets/qml/Setup.qml</file>
+    </qresource>
+</RCC>
